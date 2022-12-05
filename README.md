@@ -1,4 +1,4 @@
-.
+``` bash
 ├── README.md
 ├── apps
 │   ├── auth
@@ -70,3 +70,4 @@
         └── test_create_org.py
 
 28 directories, 41 files
+```
